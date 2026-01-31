@@ -60,3 +60,17 @@ plt.title("Refraction of Light (Snell's Law)")
 plt.legend()
 plt.grid()
 plt.show()
+
+
+"""
+Sample Input:
+enter the refractive index of MEDIUM 1: 1.0
+enter the refractive index of MEDIUM 2: 1.5
+enter the angle of incidence in degrees: 30
+
+Sample Output:
+Angle of Incidence (i): 30 degrees
+Angle of Refraction (r): 19.47 degrees
+n1 sin(i) = 0.5
+n2 sin(r) = 0.5
+"""
